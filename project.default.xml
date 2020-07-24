@@ -1,0 +1,10 @@
+<application>
+  <component name="ProjectManager">
+    <defaultProject>
+      <component name="PropertiesComponent">
+        <property name="android.sdk.path" value="/Volumes/backfile/Library/Android/sdk" />
+        <property name="settings.editor.selected.configurable" value="http.proxy" />
+      </component>
+    </defaultProject>
+  </component>
+</application>
