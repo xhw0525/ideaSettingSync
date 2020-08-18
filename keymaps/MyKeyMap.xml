@@ -1,0 +1,8 @@
+<keymap version="1" name="MyKeyMap" parent="Mac OS X 10.5+">
+  <action id="CodeCompletion">
+    <keyboard-shortcut first-keystroke="alt slash" />
+  </action>
+  <action id="HippieCompletion">
+    <keyboard-shortcut first-keystroke="ctrl alt slash" />
+  </action>
+</keymap>
