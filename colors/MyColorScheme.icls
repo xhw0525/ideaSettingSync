@@ -3,7 +3,68 @@
     <property name="created">2020-08-18T15:56:48</property>
     <property name="ide">idea</property>
     <property name="ideVersion">2019.3.5.0.0</property>
-    <property name="modified">2020-08-18T15:56:53</property>
+    <property name="modified">2020-08-18T16:57:15</property>
     <property name="originalScheme">Darcula copy</property>
   </metaInfo>
+  <colors>
+    <option name="FOLDED_TEXT_BORDER_COLOR" value="" />
+    <option name="GUTTER_BACKGROUND" value="" />
+  </colors>
+  <attributes>
+    <option name="PY.CLASS_DEFINITION">
+      <value>
+        <option name="FOREGROUND" value="e37836" />
+      </value>
+    </option>
+    <option name="PY.DOC_COMMENT">
+      <value>
+        <option name="FOREGROUND" value="625e4c" />
+        <option name="FONT_TYPE" value="2" />
+      </value>
+    </option>
+    <option name="PY.INVALID_STRING_ESCAPE">
+      <value>
+        <option name="FOREGROUND" value="6a8759" />
+        <option name="EFFECT_COLOR" value="ff0000" />
+        <option name="EFFECT_TYPE" value="2" />
+      </value>
+    </option>
+    <option name="PY.KEYWORD">
+      <value>
+        <option name="FOREGROUND" value="cc851d" />
+      </value>
+    </option>
+    <option name="PY.METHOD_CALL">
+      <value>
+        <option name="FOREGROUND" value="e9b14a" />
+      </value>
+    </option>
+    <option name="PY.PREDEFINED_DEFINITION">
+      <value>
+        <option name="FOREGROUND" value="a9b7c6" />
+      </value>
+    </option>
+    <option name="PY.SELF_PARAMETER">
+      <value>
+        <option name="FOREGROUND" value="f4005f" />
+      </value>
+    </option>
+    <option name="PY.STRING.B">
+      <value>
+        <option name="FOREGROUND" value="6a8759" />
+      </value>
+    </option>
+    <option name="PY.STRING.U">
+      <value>
+        <option name="FOREGROUND" value="6a8759" />
+      </value>
+    </option>
+    <option name="TEXT">
+      <value>
+        <option name="FOREGROUND" value="a9b7c6" />
+        <option name="BACKGROUND" value="1d1d1d" />
+        <option name="EFFECT_TYPE" value="5" />
+      </value>
+    </option>
+  </attributes>
 </scheme>
