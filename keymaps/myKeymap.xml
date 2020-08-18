@@ -5,7 +5,4 @@
   <action id="HippieCompletion">
     <keyboard-shortcut first-keystroke="ctrl alt slash" />
   </action>
-  <action id="ShowIntentionActions">
-    <keyboard-shortcut first-keystroke="ctrl alt enter" />
-  </action>
 </keymap>
