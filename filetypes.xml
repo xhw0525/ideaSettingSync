@@ -1,7 +1,0 @@
-<application>
-  <component name="FileTypeManager" version="17">
-    <extensionMap>
-      <removed_mapping ext="sqlite3" approved="true" type="Native" />
-    </extensionMap>
-  </component>
-</application>
