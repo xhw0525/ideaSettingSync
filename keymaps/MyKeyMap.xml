@@ -27,4 +27,7 @@
   <action id="HippieCompletion">
     <keyboard-shortcut first-keystroke="ctrl alt slash" />
   </action>
+  <action id="PublishGroup.Upload">
+    <keyboard-shortcut first-keystroke="shift meta s" />
+  </action>
 </keymap>
