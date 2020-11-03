@@ -13,5 +13,36 @@
         </option>
       </configuration>
     </remote-server>
+    <remote-server name="Docker3" type="docker">
+      <configuration>
+        <option name="apiUrl" value="http://107.151.115.179:2376" />
+        <option name="pathMappings">
+          <list>
+            <DockerPathMappingImpl>
+              <option name="localPath" value="$USER_HOME$/OtherProjects/PythonProjects/SixSix" />
+              <option name="virtualMachinePath" value="/usr/src/app" />
+            </DockerPathMappingImpl>
+          </list>
+        </option>
+      </configuration>
+    </remote-server>
+    <remote-server name="Docker4" type="docker">
+      <configuration>
+        <option name="apiUrl" value="http://107.151.115.179:2376" />
+      </configuration>
+    </remote-server>
+    <remote-server name="Docker5" type="docker">
+      <configuration>
+        <option name="apiUrl" value="http://107.151.115.179:2375" />
+        <option name="pathMappings">
+          <list>
+            <DockerPathMappingImpl>
+              <option name="localPath" value="$USER_HOME$/OtherProjects/PythonProjects/SixSix" />
+              <option name="virtualMachinePath" value="/usr/src/app" />
+            </DockerPathMappingImpl>
+          </list>
+        </option>
+      </configuration>
+    </remote-server>
   </component>
 </application>
