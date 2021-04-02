@@ -8,7 +8,11 @@
     <history>
       <history-search>
         <entry>restart</entry>
+        <entry>abc_chas</entry>
       </history-search>
+      <history-cmd />
+      <history-expr />
+      <history-input />
     </history>
   </component>
   <component name="VimKeySettings">
@@ -17,6 +21,19 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
+      <file name="/Dummy.txt" timestamp="1617354047034">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/Volumes/backfile/OtherProjects/PythonProjects/SixSix/App/tools/order_manager.py" timestamp="1617354605716">
+        <mark key="'" line="269" column="11" />
+        <mark key="[" line="990" column="0" />
+        <mark key="]" line="990" column="0" />
+        <mark key="^" line="991" column="73" />
+        <mark key="." line="990" column="0" />
+      </file>
+      <file name="/a.sql" timestamp="1617354045701">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="/Volumes/backfile/OtherProjects/PythonProjects/SixSix/docker-compose.yml" timestamp="1617349544140">
         <mark key="'" line="72" column="4" />
         <mark key="[" line="42" column="56" />
@@ -33,50 +50,54 @@
       <jump line="164" column="5" filename="/Volumes/backfile/OtherProjects/PythonProjects/SixSix/docker-compose.yml" />
       <jump line="21" column="4" filename="/Volumes/backfile/OtherProjects/PythonProjects/SixSix/docker-compose.yml" />
       <jump line="72" column="4" filename="/Volumes/backfile/OtherProjects/PythonProjects/SixSix/docker-compose.yml" />
+      <jump line="924" column="11" filename="/Volumes/backfile/OtherProjects/PythonProjects/SixSix/App/tools/order_manager.py" />
+      <jump line="926" column="11" filename="/Volumes/backfile/OtherProjects/PythonProjects/SixSix/App/tools/order_manager.py" />
+      <jump line="265" column="4" filename="/Volumes/backfile/OtherProjects/PythonProjects/SixSix/App/tools/order_manager.py" />
+      <jump line="269" column="11" filename="/Volumes/backfile/OtherProjects/PythonProjects/SixSix/App/tools/order_manager.py" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgLSBtZW1jYWNoZWQ6bWVtY2FjaGVkCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgLSBtZW1jYWNoZWQ6bWVtY2FjaGVkCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgLSBteXNxbDpteXNxbAo=</text>
+      <register name="2" type="4">
+        <text encoding="base64">aWYgY2hhMSA+PSAwOgogICAgICAgICAgICAgICAgYWJjX2NoYSA9IDAKICAgICAgICAgICAgICAgIGZvciBhYmNfY2hkYiBpbiBhYmNfY2hhczoKICAgICAgICAgICAgICAgICAgICBpZiBhYmNfY2hkYi5wbGF5aW5nX21ldGhvZF9pZCA9PSBwbF9hdXRvLnBsYXlpbmdfbWV0aG9kX2lkOgogICAgICAgICAgICAgICAgICAgICAgICBhYmNfY2hhID0gYWJjX2NoZGIuYWJjX3ZhbHVl</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGxpbmtzOgo=</text>
+        <text encoding="base64">ICAgICAgLSBtZW1jYWNoZWQ6bWVtY2FjaGVkCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgLSAuLzovdXNyL3NyYy9hcHAK</text>
+        <text encoding="base64">ICAgICAgLSBteXNxbDpteXNxbAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHZvbHVtZXM6Cg==</text>
+        <text encoding="base64">ICAgIGxpbmtzOgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgLSAuLzovdXNyL3NyYy9hcHAK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">IyAgICAgICAgL3Vzci9zYmluL3NzaGQgLUQgICPov5znqItzc2gK</text>
+        <text encoding="base64">ICAgIHZvbHVtZXM6Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">IyAgICAgICAgdXdzZ2kgLS1pbmkgL3Vzci9zcmMvYXBwL2RvY2tlci91d3NnaV9kb2NrZXIuaW5pCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">IyAgICAgIC0gfAo=</text>
+        <text encoding="base64">IyAgICAgICAgL3Vzci9zYmluL3NzaGQgLUQgICPov5znqItzc2gK</text>
       </register>
       <register name="/" type="4">
-        <text>restart</text>
+        <text>abc_chas</text>
       </register>
     </registers>
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>restart</last-search>
+      <last-search>abc_chas</last-search>
       <last-offset />
-      <last-pattern>restart</last-pattern>
+      <last-pattern>abc_chas</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
