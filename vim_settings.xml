@@ -1,0 +1,91 @@
+<application>
+  <component name="VimEditorSettings">
+    <editor>
+      <key-repeat enabled="true" />
+    </editor>
+  </component>
+  <component name="VimHistorySettings">
+    <history>
+      <history-search>
+        <entry>restart</entry>
+      </history-search>
+    </history>
+  </component>
+  <component name="VimKeySettings">
+    <shortcut-conflicts />
+  </component>
+  <component name="VimMarksSettings">
+    <globalmarks />
+    <filemarks>
+      <file name="/Volumes/backfile/OtherProjects/PythonProjects/SixSix/docker-compose.yml" timestamp="1617349544140">
+        <mark key="'" line="72" column="4" />
+        <mark key="[" line="42" column="56" />
+        <mark key="]" line="40" column="11" />
+        <mark key="." line="40" column="10" />
+        <mark key="^" line="40" column="11" />
+      </file>
+    </filemarks>
+    <jumps>
+      <jump line="77" column="4" filename="/Volumes/backfile/OtherProjects/PythonProjects/SixSix/docker-compose.yml" />
+      <jump line="85" column="5" filename="/Volumes/backfile/OtherProjects/PythonProjects/SixSix/docker-compose.yml" />
+      <jump line="104" column="5" filename="/Volumes/backfile/OtherProjects/PythonProjects/SixSix/docker-compose.yml" />
+      <jump line="135" column="4" filename="/Volumes/backfile/OtherProjects/PythonProjects/SixSix/docker-compose.yml" />
+      <jump line="164" column="5" filename="/Volumes/backfile/OtherProjects/PythonProjects/SixSix/docker-compose.yml" />
+      <jump line="21" column="4" filename="/Volumes/backfile/OtherProjects/PythonProjects/SixSix/docker-compose.yml" />
+      <jump line="72" column="4" filename="/Volumes/backfile/OtherProjects/PythonProjects/SixSix/docker-compose.yml" />
+    </jumps>
+  </component>
+  <component name="VimRegisterSettings">
+    <registers>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgLSBtZW1jYWNoZWQ6bWVtY2FjaGVkCg==</text>
+      </register>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgLSBtZW1jYWNoZWQ6bWVtY2FjaGVkCg==</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgLSBteXNxbDpteXNxbAo=</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgIGxpbmtzOgo=</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgLSAuLzovdXNyL3NyYy9hcHAK</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIHZvbHVtZXM6Cg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">IyAgICAgICAgL3Vzci9zYmluL3NzaGQgLUQgICPov5znqItzc2gK</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">IyAgICAgICAgdXdzZ2kgLS1pbmkgL3Vzci9zcmMvYXBwL2RvY2tlci91d3NnaV9kb2NrZXIuaW5pCg==</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">IyAgICAgIC0gfAo=</text>
+      </register>
+      <register name="/" type="4">
+        <text>restart</text>
+      </register>
+    </registers>
+  </component>
+  <component name="VimSearchSettings">
+    <search>
+      <last-search>restart</last-search>
+      <last-offset />
+      <last-pattern>restart</last-pattern>
+      <last-dir>1</last-dir>
+      <show-last>false</show-last>
+    </search>
+  </component>
+  <component name="VimSettings">
+    <state version="6" enabled="true" />
+    <notifications>
+      <idea-join enabled="false" />
+      <idea-put enabled="false" />
+    </notifications>
+  </component>
+</application>
