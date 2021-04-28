@@ -2,8 +2,8 @@
   <component name="WebServers">
     <option name="servers">
       <webServer id="cb68896a-018e-41e9-92ed-0b284938f12d" name="root@107.151.115.102:10123" url="http:///">
-        <fileTransfer host="107.151.115.102" port="10123" accessType="SFTP">
-          <option name="port" value="10123" />
+        <fileTransfer host="216.83.55.176" port="57162" rootFolder="/www/wwwroot/xmchat/ZChatProject" accessType="SFTP">
+          <option name="port" value="57162" />
         </fileTransfer>
       </webServer>
     </option>
